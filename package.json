@@ -1,0 +1,19 @@
+{
+  "name": "node-scraper",
+  "version": "1.0.0",
+  "description": "node module that scrapes remote webpages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samwongson/node-scraper.git"
+  },
+  "author": "Samson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samwongson/node-scraper/issues"
+  },
+  "homepage": "https://github.com/samwongson/node-scraper"
+}
